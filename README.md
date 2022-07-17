@@ -1,0 +1,1 @@
+# firestrick-amazon
